@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c4NWF1N2NhZnJhaWtyMW82MTZ4c296cDN2cXRhMjE4aTBkeGt6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif" width="100">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c4NWF1N2NhZnJhaWtyMW82MTZ4c296cDN2cXRhMjE4aTBkeGt6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif" width="300">
 
   # ૮ ˶ᵔ Mw ᵔ˶ ა Hi there! I'm Gabriela Rinaldi
 
@@ -34,7 +34,7 @@ Sou uma estudante de **Cyber Segurança pelo SENAC** apaixonada por tecnologia. 
 
 <div align="center">
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNvMzIxZjE0czhrOGw1aTBtajlvbTltYnFibXEwdzZnOGFvcHdwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ER1kvqvI3mb4s/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNvMzIxZjE0czhrOGw1aTBtajlvbTltYnFibXEwdzZnOGFvcHdwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ER1kvqvI3mb4s/giphy.gif" width="300">
   <br>
   <h3> (づ｡◕‿‿◕｡)づ </h3>
   <i>Obrigada pela visita!</i>
