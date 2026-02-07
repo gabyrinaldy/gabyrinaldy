@@ -18,7 +18,7 @@ Sou uma estudante de **Cyber Segurança pelo SENAC** apaixonada por tecnologia. 
 
 * 🔭 **Atualmente estudando:** Python junto com VibeCoding, Kali Linux e IA.
 * 🌱 **Foco:** Red Team & Forense Digital.
-* 💖 **Hobbies:** Tarot, Filmes de Terror, jogos e animes. (✿◠‿◠)
+* 💖 **Hobbies:** Jogos diversos, Filmes de Terror e Animes. (✿◠‿◠)
 * ⚡ **Fun fact:** Tenho dupla cidadania (🇧🇷/🇪🇸)!
 * Meu Linkedin:  https://www.linkedin.com/in/gabrielarinaldi02/ 
 ---
