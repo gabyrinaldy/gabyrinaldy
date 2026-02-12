@@ -20,7 +20,8 @@ Sou uma estudante de **Cyber Segurança pelo SENAC** apaixonada por tecnologia. 
 * 🌱 **Foco:** Red Team & Forense Digital.
 * 💖 **Hobbies:** Jogos diversos, Filmes de Terror e Animes. (✿◠‿◠)
 * ⚡ **Fun fact:** Tenho dupla cidadania (🇧🇷/🇪🇸)!
-* Meu Linkedin:  https://www.linkedin.com/in/gabrielarinaldi02/ 
+* Meu Linkedin:  https://www.linkedin.com/in/gabrielarinaldi02/
+* Medium: https://medium.com/@gaby.cyberseg 
 ---
 
 ### 🎀 Tech Stack
